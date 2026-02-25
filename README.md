@@ -23,7 +23,7 @@
 
 ## Recent GitHub activity
 <!--START_SECTION:activity-->
-- Profile activity auto-updates via GitHub Actions every 6 hours.
+1. 🗣 Commented on [#11013](https://github.com/openai/codex/issues/11013#issuecomment-3930842866) in [openai/codex](https://github.com/openai/codex)
 <!--END_SECTION:activity-->
 
 ## Tech lens
