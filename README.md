@@ -23,7 +23,7 @@
 
 ## Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32041](https://github.com/openclaw/openclaw/issues/32041#issuecomment-4028783026) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
+1. 🗣 Commented on [#17265](https://github.com/openai/codex/issues/17265#issuecomment-4428199017) in [openai/codex](https://github.com/openai/codex)
 <!--END_SECTION:activity-->
 
 ## Tech lens
