@@ -23,7 +23,7 @@
 
 ## Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/canivibecodeit/canivibecodeit/pull/21) in [canivibecodeit/canivibecodeit](https://github.com/canivibecodeit/canivibecodeit)
+1. 🗣 Commented on [#21](https://github.com/canivibecodeit/canivibecodeit/pull/21#issuecomment-5166908833) in [canivibecodeit/canivibecodeit](https://github.com/canivibecodeit/canivibecodeit)
 <!--END_SECTION:activity-->
 
 ## Tech lens
