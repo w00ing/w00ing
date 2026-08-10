@@ -23,7 +23,7 @@
 
 ## Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/canivibecodeit/canivibecodeit/pull/21#issuecomment-5166908833) in [canivibecodeit/canivibecodeit](https://github.com/canivibecodeit/canivibecodeit)
+1. 🚀 Published release [v0.3.0](https://github.com/w00ing/seer-skill/releases/tag/v0.3.0) in [w00ing/seer-skill](https://github.com/w00ing/seer-skill)
 <!--END_SECTION:activity-->
 
 ## Tech lens
