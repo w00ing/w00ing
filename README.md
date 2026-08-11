@@ -23,7 +23,7 @@
 
 ## Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.0](https://github.com/w00ing/seer-skill/releases/tag/v0.4.0) in [w00ing/seer-skill](https://github.com/w00ing/seer-skill)
+1. 🚀 Published release [v0.4.1](https://github.com/w00ing/seer-skill/releases/tag/v0.4.1) in [w00ing/seer-skill](https://github.com/w00ing/seer-skill)
 <!--END_SECTION:activity-->
 
 ## Tech lens
