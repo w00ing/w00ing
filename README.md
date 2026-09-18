@@ -23,7 +23,7 @@
 
 ## Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26984](https://github.com/openai/codex/issues/26984#issuecomment-5257913937) in [openai/codex](https://github.com/openai/codex)
+1. 🗣 Commented on [#46398](https://github.com/openai/codex/issues/46398#issuecomment-5735109898) in [openai/codex](https://github.com/openai/codex)
 <!--END_SECTION:activity-->
 
 ## Tech lens
