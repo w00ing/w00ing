@@ -23,7 +23,7 @@
 
 ## Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#706](https://github.com/danmindru/rare-big-deal/pull/706) in [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal)
+1. 🚀 Published release [Cutfac 0.3.0](https://github.com/wyverselabs/cutfac/releases/tag/v0.3.0) in [wyverselabs/cutfac](https://github.com/wyverselabs/cutfac)
 <!--END_SECTION:activity-->
 
 ## Tech lens
