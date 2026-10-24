@@ -23,7 +23,7 @@
 
 ## Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Cutfac 0.3.0](https://github.com/wyverselabs/cutfac/releases/tag/v0.3.0) in [wyverselabs/cutfac](https://github.com/wyverselabs/cutfac)
+1. ❗ Opened issue [#1](https://github.com/thoughtcook/verified-black-friday/issues/1) in [thoughtcook/verified-black-friday](https://github.com/thoughtcook/verified-black-friday)
 <!--END_SECTION:activity-->
 
 ## Tech lens
