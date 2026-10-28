@@ -23,7 +23,7 @@
 
 ## Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Cutfac 0.4.4](https://github.com/wyverselabs/cutfac/releases/tag/v0.4.4) in [wyverselabs/cutfac](https://github.com/wyverselabs/cutfac)
+1. 🚀 Published release [Cutfac 0.4.6](https://github.com/wyverselabs/cutfac/releases/tag/v0.4.6) in [wyverselabs/cutfac](https://github.com/wyverselabs/cutfac)
 <!--END_SECTION:activity-->
 
 ## Tech lens
