@@ -23,7 +23,7 @@
 
 ## Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1845](https://github.com/serhii-londar/open-source-mac-os-apps/pull/1845) in [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+1. 🚀 Published release [Cutfac 0.4.9](https://github.com/cutfac/cutfac/releases/tag/v0.4.9) in [cutfac/cutfac](https://github.com/cutfac/cutfac)
 <!--END_SECTION:activity-->
 
 ## Tech lens
