@@ -23,7 +23,7 @@
 
 ## Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Cutfac 0.4.6](https://github.com/wyverselabs/cutfac/releases/tag/v0.4.6) in [wyverselabs/cutfac](https://github.com/wyverselabs/cutfac)
+1. 💪 Opened PR [#1845](https://github.com/serhii-londar/open-source-mac-os-apps/pull/1845) in [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 <!--END_SECTION:activity-->
 
 ## Tech lens
