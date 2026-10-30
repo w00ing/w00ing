@@ -23,7 +23,7 @@
 
 ## Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Cutfac 0.4.11](https://github.com/cutfac/cutfac/releases/tag/v0.4.11) in [cutfac/cutfac](https://github.com/cutfac/cutfac)
+1. 🚀 Published release [Cutfac 0.4.13](https://github.com/cutfac/cutfac/releases/tag/v0.4.13) in [cutfac/cutfac](https://github.com/cutfac/cutfac)
 <!--END_SECTION:activity-->
 
 ## Tech lens
