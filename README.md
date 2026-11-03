@@ -23,7 +23,7 @@
 
 ## Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Cutfac 0.4.14](https://github.com/cutfac/cutfac/releases/tag/v0.4.14) in [cutfac/cutfac](https://github.com/cutfac/cutfac)
+1. 🎉 Merged PR [#2433](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/pull/2433) in [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
 <!--END_SECTION:activity-->
 
 ## Tech lens
