@@ -23,7 +23,7 @@
 
 ## Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2449](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/pull/2449) in [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)
+1. 🎉 Merged PR [#1](https://github.com/w00ing/skills/pull/1) in [w00ing/skills](https://github.com/w00ing/skills)
 <!--END_SECTION:activity-->
 
 ## Tech lens
