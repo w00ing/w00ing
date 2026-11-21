@@ -23,7 +23,7 @@
 
 ## Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/w00ing/skills/pull/1) in [w00ing/skills](https://github.com/w00ing/skills)
+1. 🎉 Merged PR [#3](https://github.com/wyverselabs/shotomatic-cli/pull/3) in [wyverselabs/shotomatic-cli](https://github.com/wyverselabs/shotomatic-cli)
 <!--END_SECTION:activity-->
 
 ## Tech lens
