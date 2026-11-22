@@ -23,7 +23,7 @@
 
 ## Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/wyverselabs/shotomatic-cli/pull/3) in [wyverselabs/shotomatic-cli](https://github.com/wyverselabs/shotomatic-cli)
+1. 🚀 Published release [Cutfac 0.4.15](https://github.com/cutfac/cutfac/releases/tag/v0.4.15) in [cutfac/cutfac](https://github.com/cutfac/cutfac)
 <!--END_SECTION:activity-->
 
 ## Tech lens
