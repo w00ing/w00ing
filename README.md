@@ -23,7 +23,7 @@
 
 ## Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Cutfac 0.4.16](https://github.com/cutfac/cutfac/releases/tag/v0.4.16) in [cutfac/cutfac](https://github.com/cutfac/cutfac)
+1. 💪 Opened PR [#20742](https://github.com/punkpeye/awesome-mcp-servers/pull/20742) in [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 <!--END_SECTION:activity-->
 
 ## Tech lens
