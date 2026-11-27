@@ -23,7 +23,7 @@
 
 ## Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20742](https://github.com/punkpeye/awesome-mcp-servers/pull/20742) in [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+1. 💪 Opened PR [#1](https://github.com/cutfac/cutfac/pull/1) in [cutfac/cutfac](https://github.com/cutfac/cutfac)
 <!--END_SECTION:activity-->
 
 ## Tech lens
