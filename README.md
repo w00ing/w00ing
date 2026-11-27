@@ -23,7 +23,7 @@
 
 ## Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/cutfac/cutfac/pull/1) in [cutfac/cutfac](https://github.com/cutfac/cutfac)
+1. 🎉 Merged PR [#1](https://github.com/cutfac/cutfac/pull/1) in [cutfac/cutfac](https://github.com/cutfac/cutfac)
 <!--END_SECTION:activity-->
 
 ## Tech lens
